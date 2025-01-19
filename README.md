@@ -31,5 +31,3 @@ I'm a Developer. Here are a few things about me:
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ghandevjindal&show_icons=true&theme=radical)
-
