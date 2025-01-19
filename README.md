@@ -5,7 +5,7 @@ I'm a Developer. Here are a few things about me:
 - 🔭 I’m currently working as Automation Developer at Bharti Airtel.
 - 🌱 I’m currently learning about Designing of Data Intensive Applications.
 - 😋️ I love playing chess.
-- 💥️ 2024 Goals: Contribute more to open source and complete this book of Designing of Data Intensive Applications by Martin Kleppmann.
+- 💥️ 2025 Goals: Contribute more to open source and complete this book of Designing of Data Intensive Applications by Martin Kleppmann.
 - 📫 How to reach me: ghandevjindal123@gmail.com
 
 ### Connect with me:
